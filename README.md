@@ -1,5 +1,8 @@
 # File Organizer - Professional Edition (PyQt6)
 
+<img width="1199" height="831" alt="image" src="https://github.com/user-attachments/assets/6cac20ab-6dda-472d-ae91-3ee26017ff9b" />
+
+
 A powerful and user-friendly desktop application to automatically organize files into categorized folders.  
 **Built with Python and PyQt6.**
 
